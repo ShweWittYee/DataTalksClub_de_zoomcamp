@@ -1,0 +1,18 @@
+# Python
+.venv
+__pycache__
+*.pyc
+
+# Git
+.git
+.gitignore
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints
+
+# Local data / volumes
+ny_taxi_postgres_data
+
+# OS noise
+.DS_Store
